@@ -6,7 +6,7 @@ Packages: **pandas, numpy, sklearn, matplotlib, seaborn**<br/>
 Dataset: The dataset used in the project is `diabetes.csv`. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
 
 ## Model Building and Evaluation
-Plot the histogram plot of each feature and divide into two groups: diabetes and no diabetes. The histogram shows how each feature correlates to the possibility of developing diabetes.<br/>
+Plot the histogram plot of each feature and divide into two groups: diabetes and no diabetes. The histogram shows how each feature correlates to the possibility of developing diabetes.For example: <br/>
 
 ![distribution Plot](https://github.com/M-Theresa/diabetes_predict/blob/16273723fab63580d51bbd600aa50391720bb346/eda_plot.png)
 
